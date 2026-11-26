@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=12,6,2&text=Gangadhar Kuratti&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20%7C%20FULL-STACK%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=15&descAlignY=68" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=12,6,2&text=Gangadhar%20 Kuratti&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20%7C%20FULL-STACK%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=15&descAlignY=68" width="100%" alt="banner" />
 
 ### Building practical software. Exploring intelligent systems. Solving problems.
 
