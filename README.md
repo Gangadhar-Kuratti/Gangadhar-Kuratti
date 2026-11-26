@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="https://github.com/Gangadhar-Kuratti"><img src="https://img.shields.io/badge/GITHUB-Gangadhar-Kuratti-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/Gangadhar-Kuratti"><img src="https://img.shields.io/badge/GITHUB-Gangadhar--Kuratti-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/gangadharkuratti11/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://your-live-project-link.com"><img src="https://img.shields.io/badge/LIVE%20PROJECT-YOUR%20PROJECT-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Project"></a>
 
@@ -177,7 +177,7 @@ I use GitHub to document my learning, maintain projects, practice programming, a
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/38bdf8/YOUR_USERNAME" alt="GitHub Contribution Calendar" width="100%" />
+  <img src="https://ghchart.rshah.org/38bdf8/Gangadhar-Kuratti" alt="GitHub Contribution Calendar" width="100%" />
 </div>
 
 ---
