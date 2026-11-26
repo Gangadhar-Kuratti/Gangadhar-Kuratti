@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # GANGADHAR KURATTI
 
 ### BCA Student \| Cybersecurity Enthusiast \| Python & Web Development
