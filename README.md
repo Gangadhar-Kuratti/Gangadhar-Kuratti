@@ -14,7 +14,7 @@
 <br>
 
 <a href="https://github.com/Gangadhar-Kuratti"><img src="https://img.shields.io/badge/GITHUB-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/gangadharkuratti11/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://your-live-project-link.com"><img src="https://img.shields.io/badge/LIVE%20PROJECT-YOUR%20PROJECT-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Project"></a>
 
 <br><br>
@@ -29,7 +29,7 @@
 
 ## 01 / About Me
 
-I'm **Gangadhar**, a **[BCA]** student at **[KLE PC Jabin College, HUBLI, Karnataka]**.
+I'm **Gangadhar**, a **BCA** student at **KLE PC Jabin College, HUBLI, Karnataka**.
 
 I'm interested in building software applications, developing backend systems, exploring artificial intelligence, and solving programming problems.
 
