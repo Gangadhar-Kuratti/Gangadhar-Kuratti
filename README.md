@@ -174,6 +174,11 @@ I use GitHub to document my learning, maintain projects, practice programming, a
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gangadhar-Kuratti&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
+### GitHub Activity
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/38bdf8/YOUR_USERNAME" alt="GitHub Contribution Calendar" width="100%" />
+</div>
 
 ---
 
