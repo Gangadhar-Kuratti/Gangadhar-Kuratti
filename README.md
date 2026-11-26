@@ -7,13 +7,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=12,6,2&text=YOUR%20NAME&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20%7C%20FULL-STACK%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=15&descAlignY=68" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=12,6,2&text=Gangadhar Kuratti&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20%7C%20FULL-STACK%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=15&descAlignY=68" width="100%" alt="banner" />
 
 ### Building practical software. Exploring intelligent systems. Solving problems.
 
 <br>
 
-<a href="https://github.com/Gangadhar-Kuratti"><img src="https://img.shields.io/badge/GITHUB-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/Gangadhar-Kuratti"><img src="https://img.shields.io/badge/GITHUB-Gangadhar-Kuratti-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/gangadharkuratti11/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://your-live-project-link.com"><img src="https://img.shields.io/badge/LIVE%20PROJECT-YOUR%20PROJECT-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Project"></a>
 
@@ -101,7 +101,7 @@ A selection of projects where I apply my knowledge through practical development
       <b>Tech Stack</b>
       <p><code>Python</code> <code>FastAPI</code> <code>MongoDB</code> <code>Scikit-learn</code></p>
       <a href="https://live-demo-link.com"><img src="https://img.shields.io/badge/LIVE%20DEMO-VISIT%20PROJECT-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a><br>
-      <a href="https://github.com/YOUR_USERNAME/project-one"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
+      <a href="https://github.com/Gangadhar-Kuratti/project-one"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
     </td>
     <td width="50%" valign="top">
       <h3>02. Project Two</h3>
@@ -109,7 +109,7 @@ A selection of projects where I apply my knowledge through practical development
       <p>One or two lines describing what the project does and why it is useful.</p>
       <b>Tech Stack</b>
       <p><code>React</code> <code>Node.js</code> <code>Express.js</code> <code>PostgreSQL</code></p>
-      <a href="https://github.com/YOUR_USERNAME/project-two"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
+      <a href="https://github.com/Gangadhar-Kuratti/project-two"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
     </td>
   </tr>
   <tr>
@@ -119,7 +119,7 @@ A selection of projects where I apply my knowledge through practical development
       <p>One or two lines describing what the project does and why it is useful.</p>
       <b>Tech Stack</b>
       <p><code>Tech A</code> <code>Tech B</code> <code>Tech C</code></p>
-      <a href="https://github.com/YOUR_USERNAME/project-three"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
+      <a href="https://github.com/Gangadhar-Kuratti/project-three"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
     </td>
     <td width="50%" valign="top">
       <h3>04. Project Four</h3>
@@ -127,7 +127,7 @@ A selection of projects where I apply my knowledge through practical development
       <p>One or two lines describing what the project does and why it is useful.</p>
       <b>Tech Stack</b>
       <p><code>Tech A</code> <code>Tech B</code> <code>Tech C</code></p>
-      <a href="https://github.com/YOUR_USERNAME/project-four"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
+      <a href="https://github.com/Gangadhar-Kuratti/project-four"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
     </td>
   </tr>
 </table>
@@ -162,16 +162,16 @@ I use GitHub to document my learning, maintain projects, practice programming, a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gangadhar-Kuratti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gangadhar-Kuratti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top Languages" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gangadhar-Kuratti&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gangadhar-Kuratti&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -183,8 +183,8 @@ I'm interested in connecting with developers, collaborating on projects, sharing
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/Gangadhar-Kuratti"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/gangadharkuratti11/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br><br>
 
